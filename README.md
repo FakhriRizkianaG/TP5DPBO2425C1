@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Add Data" src="https://github.com/user-attachments/assets/2bd6af55-3678-4f2a-8e85-2c8c43c71bb2" /><img width="1919" height="1079" alt="Add Data" src="https://github.com/user-attachments/assets/6f55d055-07a1-42dd-a49f-7da5e9c6c098" /># TP5DPBO2425C1
+# TP5DPBO2425C1
 TP 5 Frizkia (Fakhri Rizkiana)
 # Janji
 Saya Fakhri Rizkiana Sya'ban Kusnendar dengan NIM 2405534 mengerjakan<br> 
