@@ -34,3 +34,5 @@ Program ini menyimpan data dengan database mysql sehingga data akan tetap terimp
 
 <h3>Error handling</h3>
 <img width="1919" height="1079" alt="ada field kosong" src="https://github.com/user-attachments/assets/0c033ae7-e16f-48f7-b233-2d850ba9eb0a" />
+<img width="1919" height="1079" alt="Input bukan angka" src="https://github.com/user-attachments/assets/54c022f1-4d53-4e62-9a43-4019e64297ce" />
+
